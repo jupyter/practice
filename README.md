@@ -2,7 +2,7 @@
 A practice repo for submitting pull requests
 
 
-1. Fork
+1. Fork (only once per repo)
 2. Clone
 3. Branch
 4. Add/Commit
